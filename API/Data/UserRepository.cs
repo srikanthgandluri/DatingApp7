@@ -62,5 +62,6 @@ namespace API.Data
                     .ProjectTo<MemberDTO>(_mapper.ConfigurationProvider)
                     .ToListAsync();
         }
+        
     }
 }
