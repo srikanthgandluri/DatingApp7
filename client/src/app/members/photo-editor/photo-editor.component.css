@@ -1,0 +1,6 @@
+.nv-file-hover{
+    border: dotted 3px red;
+}
+input[type=file]{
+    color: transparent;
+}
